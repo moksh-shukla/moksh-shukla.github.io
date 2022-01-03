@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moksh Shukla</title>
-    <link>https://moksh-shukla.github.io/</link>
-      <atom:link href="https://moksh-shukla.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Moksh Shukla</description>
+    <title>Projects | Moksh Shukla</title>
+    <link>https://moksh-shukla.github.io/project/</link>
+      <atom:link href="https://moksh-shukla.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 02:26:47 +0530</lastBuildDate>
     <image>
       <url>https://moksh-shukla.github.io/img/icon-192.png</url>
-      <title>Moksh Shukla</title>
-      <link>https://moksh-shukla.github.io/</link>
+      <title>Projects</title>
+      <link>https://moksh-shukla.github.io/project/</link>
     </image>
     
     <item>
@@ -41,22 +41,6 @@
       <link>https://moksh-shukla.github.io/project/airbnb/</link>
       <pubDate>Tue, 04 Jan 2022 02:26:01 +0530</pubDate>
       <guid>https://moksh-shukla.github.io/project/airbnb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regulations, Ratings and Sharing Economy: Analysis of Airbnb Using a Quasi-Experiment</title>
-      <link>https://moksh-shukla.github.io/publication/causal_airbnb/</link>
-      <pubDate>Tue, 04 Jan 2022 01:52:09 +0530</pubDate>
-      <guid>https://moksh-shukla.github.io/publication/causal_airbnb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Comparitive Study to Detect Tumor in Brain MRI Images using Clustering Algorithms</title>
-      <link>https://moksh-shukla.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 03 Mar 2020 22:33:24 +0530</pubDate>
-      <guid>https://moksh-shukla.github.io/publication/journal-article/</guid>
       <description></description>
     </item>
     
