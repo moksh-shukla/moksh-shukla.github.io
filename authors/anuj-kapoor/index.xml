@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuj Kapoor | Moksh Shukla</title>
+    <link>https://moksh-shukla.github.io/authors/anuj-kapoor/</link>
+      <atom:link href="https://moksh-shukla.github.io/authors/anuj-kapoor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anuj Kapoor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 01:52:09 +0530</lastBuildDate>
+    <image>
+      <url>https://moksh-shukla.github.io/img/icon-192.png</url>
+      <title>Anuj Kapoor</title>
+      <link>https://moksh-shukla.github.io/authors/anuj-kapoor/</link>
+    </image>
+    
+    <item>
+      <title>Regulations, Ratings and Sharing Economy: Analysis of Airbnb Using a Quasi-Experiment</title>
+      <link>https://moksh-shukla.github.io/publication/causal_airbnb/</link>
+      <pubDate>Tue, 04 Jan 2022 01:52:09 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/publication/causal_airbnb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

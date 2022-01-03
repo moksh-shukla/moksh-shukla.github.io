@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Moksh Shukla</title>
+    <link>https://moksh-shukla.github.io/publication_types/0/</link>
+      <atom:link href="https://moksh-shukla.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 22:33:24 +0530</lastBuildDate>
+    <image>
+      <url>https://moksh-shukla.github.io/img/icon-192.png</url>
+      <title>0</title>
+      <link>https://moksh-shukla.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Journal Article</title>
+      <link>https://moksh-shukla.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 03 Jan 2022 22:33:24 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
