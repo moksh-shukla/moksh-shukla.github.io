@@ -5,7 +5,7 @@
     <link>https://moksh-shukla.github.io/tags/machine-learning/</link>
       <atom:link href="https://moksh-shukla.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 02:26:12 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 01:52:09 +0530</lastBuildDate>
     <image>
       <url>https://moksh-shukla.github.io/img/icon-192.png</url>
       <title>Machine Learning</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Regulations, Ratings and Sharing Economy: Analysis of Airbnb Using a Quasi-Experiment</title>
+      <link>https://moksh-shukla.github.io/publication/causal_airbnb/</link>
+      <pubDate>Tue, 04 Jan 2022 01:52:09 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/publication/causal_airbnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tumor Segmentation from Brain MRI using Clustering Algorithms</title>
       <link>https://moksh-shukla.github.io/project/brain_tumor/</link>
-      <pubDate>Tue, 04 Jan 2022 02:26:12 +0530</pubDate>
+      <pubDate>Fri, 06 Mar 2020 02:26:12 +0530</pubDate>
       <guid>https://moksh-shukla.github.io/project/brain_tumor/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2019 - March 2020&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Krishna K. Sharma, Dept. of Computer Science &amp;amp; Informatics, University of Kota&lt;/p&gt;
@@ -31,14 +39,6 @@ Anisotropic Diffusion Filter, Segmentation with Fuzzy K-Means &amp;amp; Post-Pro
 Filter&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Regulations, Ratings and Sharing Economy: Analysis of Airbnb Using a Quasi-Experiment</title>
-      <link>https://moksh-shukla.github.io/publication/causal_airbnb/</link>
-      <pubDate>Tue, 04 Jan 2022 01:52:09 +0530</pubDate>
-      <guid>https://moksh-shukla.github.io/publication/causal_airbnb/</guid>
-      <description></description>
     </item>
     
     <item>

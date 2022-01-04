@@ -5,7 +5,7 @@
     <link>https://moksh-shukla.github.io/categories/project/</link>
       <atom:link href="https://moksh-shukla.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Project</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 02:26:12 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 15:00:46 +0530</lastBuildDate>
     <image>
       <url>https://moksh-shukla.github.io/img/icon-192.png</url>
       <title>Project</title>
@@ -13,9 +13,67 @@
     </image>
     
     <item>
+      <title>Instructional Knowledge Acquisition from WikiHow</title>
+      <link>https://moksh-shukla.github.io/project/kb_nlp/</link>
+      <pubDate>Tue, 04 Jan 2022 15:00:46 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/kb_nlp/</guid>
+      <description>&lt;p&gt;Project part of &lt;strong&gt;Research Internship&lt;/strong&gt; at &lt;a href=&#34;https://wilburone.github.io/lab.html&#34;&gt;Natural Language Processing Lab, Virginia Tech&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: May 2021 - Present&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Lifu Huang, Dept. of Computer Science, Virginia Tech&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparing a benchmark dataset for Natural Language Understanding tasks which can be derived based on the
+WikiHow resources.&lt;/li&gt;
+&lt;li&gt;Designing Neural Baseline Models for this task using BERT, VisualBERT&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Baseline 1&lt;/strong&gt;: Modelled as binary classification problem for each set of task description and entities as input using pre-trained model &lt;em&gt;BERT&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Baseline 2&lt;/strong&gt;: Modelled as binary classification problem for each set of task text description, task images, task videos and entities as input using pre-trained SOTA models like &lt;em&gt;VisualBERT&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Authoring a research paper as the &lt;strong&gt;lead author&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Framework for Broad Class Incremental Learning System</title>
+      <link>https://moksh-shukla.github.io/project/bclis/</link>
+      <pubDate>Wed, 20 Jan 2021 02:26:24 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/bclis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: October 2020 - January 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Krishna K. Sharma, Dept. of Computer Science &amp;amp; Informatics, University of Kota&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a Novel Learning Framework Broad Class Incremental Learning System (BCILS) to tackle the
+forgetting problem of Class Incremental Learning.&lt;/li&gt;
+&lt;li&gt;BCILS updates the model when there is training data from unknown classes using the deduced iterative formula.&lt;/li&gt;
+&lt;li&gt;Proposed approach tested on sensor-induced physiological signals.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One vs Many: Causal Analysis of Airbnb using a Quasi-Experiment</title>
+      <link>https://moksh-shukla.github.io/project/airbnb/</link>
+      <pubDate>Mon, 20 Jul 2020 02:26:01 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/airbnb/</guid>
+      <description>&lt;p&gt;Project part of Summer Internship 2020 at IIM Ahmedabad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: April 2020 - July 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Anuj Kapoor, IIM Ahemdabad&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compared the service quality ratings of hosts who own multiple properties to those who own only a single property, using detailed property-level data from Airbnb from the cities of Amsterdam &amp;amp; Antwerp&lt;/li&gt;
+&lt;li&gt;Employed a &lt;em&gt;Difference-in-Differences&lt;/em&gt; Design to causally study the effect of government crackdown on hosts
+who own multiple properties and disentangle the effect on service quality rating of hosts&lt;/li&gt;
+&lt;li&gt;Used &lt;em&gt;Latent Dirichlet Allocation (LDA)&lt;/em&gt; to classify 15k guest reviews into Property based &amp;amp; Host based
+and hence established a shift from Property to Host based reviews after the crackdown&lt;/li&gt;
+&lt;li&gt;Investigated heterogeneity in effects using data driven machine learning algorithm: Causal Forest&lt;/li&gt;
+&lt;li&gt;Paper &lt;em&gt;&lt;strong&gt;Revised and Re-submitted&lt;/strong&gt;&lt;/em&gt; to Elsevier’s IJRM.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tumor Segmentation from Brain MRI using Clustering Algorithms</title>
       <link>https://moksh-shukla.github.io/project/brain_tumor/</link>
-      <pubDate>Tue, 04 Jan 2022 02:26:12 +0530</pubDate>
+      <pubDate>Fri, 06 Mar 2020 02:26:12 +0530</pubDate>
       <guid>https://moksh-shukla.github.io/project/brain_tumor/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2019 - March 2020&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Krishna K. Sharma, Dept. of Computer Science &amp;amp; Informatics, University of Kota&lt;/p&gt;
@@ -34,18 +92,20 @@ Filter&lt;/li&gt;
     </item>
     
     <item>
-      <title>Framework for Broad Class Incremental Learning System</title>
-      <link>https://moksh-shukla.github.io/project/bclis/</link>
-      <pubDate>Wed, 20 Jan 2021 02:26:24 +0530</pubDate>
-      <guid>https://moksh-shukla.github.io/project/bclis/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: October 2020 - January 2021&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Krishna K. Sharma, Dept. of Computer Science &amp;amp; Informatics, University of Kota&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+      <title>Smart Gamer</title>
+      <link>https://moksh-shukla.github.io/project/smart_gamer/</link>
+      <pubDate>Mon, 15 Jul 2019 02:26:47 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/smart_gamer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The project was part of the Science and Technology Council&amp;rsquo;s Summer Project at IIT Kanpur.
+This project&amp;rsquo;s goal was to create an interactive game that could be played with gestures and to create a Game AI.
+This project was implemented in three stages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: May 2019 - July 2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Developed a Novel Learning Framework Broad Class Incremental Learning System (BCILS) to tackle the
-forgetting problem of Class Incremental Learning.&lt;/li&gt;
-&lt;li&gt;BCILS updates the model when there is training data from unknown classes using the deduced iterative formula.&lt;/li&gt;
-&lt;li&gt;Proposed approach tested on sensor-induced physiological signals.&lt;/li&gt;
+&lt;li&gt;Stage I: Developed a space shooter game using PyGame and built a GameAI using Behaviour Tree&lt;/li&gt;
+&lt;li&gt;Stage II: Incorporated gesture control for the game using OpenCV and Depth Sensing using Intel RealSense&lt;/li&gt;
+&lt;li&gt;Stage III: Built a Game AI using Q-Network for the PyGame based space shooter game.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

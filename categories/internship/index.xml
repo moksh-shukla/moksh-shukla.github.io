@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internship | Moksh Shukla</title>
+    <link>https://moksh-shukla.github.io/categories/internship/</link>
+      <atom:link href="https://moksh-shukla.github.io/categories/internship/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internship</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 15:00:46 +0530</lastBuildDate>
+    <image>
+      <url>https://moksh-shukla.github.io/img/icon-192.png</url>
+      <title>Internship</title>
+      <link>https://moksh-shukla.github.io/categories/internship/</link>
+    </image>
+    
+    <item>
+      <title>Instructional Knowledge Acquisition from WikiHow</title>
+      <link>https://moksh-shukla.github.io/project/kb_nlp/</link>
+      <pubDate>Tue, 04 Jan 2022 15:00:46 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/kb_nlp/</guid>
+      <description>&lt;p&gt;Project part of &lt;strong&gt;Research Internship&lt;/strong&gt; at &lt;a href=&#34;https://wilburone.github.io/lab.html&#34;&gt;Natural Language Processing Lab, Virginia Tech&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: May 2021 - Present&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Lifu Huang, Dept. of Computer Science, Virginia Tech&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparing a benchmark dataset for Natural Language Understanding tasks which can be derived based on the
+WikiHow resources.&lt;/li&gt;
+&lt;li&gt;Designing Neural Baseline Models for this task using BERT, VisualBERT&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Baseline 1&lt;/strong&gt;: Modelled as binary classification problem for each set of task description and entities as input using pre-trained model &lt;em&gt;BERT&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Baseline 2&lt;/strong&gt;: Modelled as binary classification problem for each set of task text description, task images, task videos and entities as input using pre-trained SOTA models like &lt;em&gt;VisualBERT&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Authoring a research paper as the &lt;strong&gt;lead author&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

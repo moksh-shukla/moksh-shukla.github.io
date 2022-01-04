@@ -20,5 +20,26 @@
       <description></description>
     </item>
     
+    <item>
+      <title>One vs Many: Causal Analysis of Airbnb using a Quasi-Experiment</title>
+      <link>https://moksh-shukla.github.io/project/airbnb/</link>
+      <pubDate>Mon, 20 Jul 2020 02:26:01 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/airbnb/</guid>
+      <description>&lt;p&gt;Project part of Summer Internship 2020 at IIM Ahmedabad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: April 2020 - July 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Anuj Kapoor, IIM Ahemdabad&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compared the service quality ratings of hosts who own multiple properties to those who own only a single property, using detailed property-level data from Airbnb from the cities of Amsterdam &amp;amp; Antwerp&lt;/li&gt;
+&lt;li&gt;Employed a &lt;em&gt;Difference-in-Differences&lt;/em&gt; Design to causally study the effect of government crackdown on hosts
+who own multiple properties and disentangle the effect on service quality rating of hosts&lt;/li&gt;
+&lt;li&gt;Used &lt;em&gt;Latent Dirichlet Allocation (LDA)&lt;/em&gt; to classify 15k guest reviews into Property based &amp;amp; Host based
+and hence established a shift from Property to Host based reviews after the crackdown&lt;/li&gt;
+&lt;li&gt;Investigated heterogeneity in effects using data driven machine learning algorithm: Causal Forest&lt;/li&gt;
+&lt;li&gt;Paper &lt;em&gt;&lt;strong&gt;Revised and Re-submitted&lt;/strong&gt;&lt;/em&gt; to Elsevier’s IJRM.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
