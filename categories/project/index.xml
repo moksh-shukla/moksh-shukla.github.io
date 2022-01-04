@@ -17,7 +17,37 @@
       <link>https://moksh-shukla.github.io/project/brain_tumor/</link>
       <pubDate>Tue, 04 Jan 2022 02:26:12 +0530</pubDate>
       <guid>https://moksh-shukla.github.io/project/brain_tumor/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2019 - March 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Krishna K. Sharma, Dept. of Computer Science &amp;amp; Informatics, University of Kota&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compared various Noise Filters on images with Gaussian Noise using PSNR as the test parameter&lt;/li&gt;
+&lt;li&gt;Implemented Contour-Detection Based Cropping of MRI images as a pre-processing step which improved
+accuracy of clustering algorithms and reduced their computation time by clipping unwanted portion from MRI&lt;/li&gt;
+&lt;li&gt;Tested 9 different combinations of Noise Filters &amp;amp; Clustering Algorithms for their tumor classification accuracy, with
+Anisotropic Diffusion Filter along with Fuzzy K-Means achieving the best Classification Accuracy of 94.55%&lt;/li&gt;
+&lt;li&gt;Devised an efficient algorithm for Tumor Detection involving: Contour-based Cropping, De-Noising using
+Anisotropic Diffusion Filter, Segmentation with Fuzzy K-Means &amp;amp; Post-Processing with Erosion &amp;amp; Median
+Filter&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Framework for Broad Class Incremental Learning System</title>
+      <link>https://moksh-shukla.github.io/project/bclis/</link>
+      <pubDate>Wed, 20 Jan 2021 02:26:24 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/bclis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: October 2020 - January 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Krishna K. Sharma, Dept. of Computer Science &amp;amp; Informatics, University of Kota&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a Novel Learning Framework Broad Class Incremental Learning System (BCILS) to tackle the
+forgetting problem of Class Incremental Learning.&lt;/li&gt;
+&lt;li&gt;BCILS updates the model when there is training data from unknown classes using the deduced iterative formula.&lt;/li&gt;
+&lt;li&gt;Proposed approach tested on sensor-induced physiological signals.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

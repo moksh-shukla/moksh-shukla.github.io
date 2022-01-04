@@ -5,20 +5,12 @@
     <link>https://moksh-shukla.github.io/authors/moksh-shukla/</link>
       <atom:link href="https://moksh-shukla.github.io/authors/moksh-shukla/index.xml" rel="self" type="application/rss+xml" />
     <description>Moksh Shukla</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 02:26:12 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 01:52:09 +0530</lastBuildDate>
     <image>
       <url>https://moksh-shukla.github.io/img/icon-192.png</url>
       <title>Moksh Shukla</title>
       <link>https://moksh-shukla.github.io/authors/moksh-shukla/</link>
     </image>
-    
-    <item>
-      <title>Tumor Segmentation from Brain MRI using Clustering Algorithms</title>
-      <link>https://moksh-shukla.github.io/project/brain_tumor/</link>
-      <pubDate>Tue, 04 Jan 2022 02:26:12 +0530</pubDate>
-      <guid>https://moksh-shukla.github.io/project/brain_tumor/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Regulations, Ratings and Sharing Economy: Analysis of Airbnb Using a Quasi-Experiment</title>

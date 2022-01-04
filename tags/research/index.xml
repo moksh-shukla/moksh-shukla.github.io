@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | Moksh Shukla</title>
-    <link>https://moksh-shukla.github.io/tags/machine-learning/</link>
-      <atom:link href="https://moksh-shukla.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Machine Learning</description>
+    <title>Research | Moksh Shukla</title>
+    <link>https://moksh-shukla.github.io/tags/research/</link>
+      <atom:link href="https://moksh-shukla.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 02:26:12 +0530</lastBuildDate>
     <image>
       <url>https://moksh-shukla.github.io/img/icon-192.png</url>
-      <title>Machine Learning</title>
-      <link>https://moksh-shukla.github.io/tags/machine-learning/</link>
+      <title>Research</title>
+      <link>https://moksh-shukla.github.io/tags/research/</link>
     </image>
     
     <item>
@@ -34,19 +34,20 @@ Filter&lt;/li&gt;
     </item>
     
     <item>
-      <title>Regulations, Ratings and Sharing Economy: Analysis of Airbnb Using a Quasi-Experiment</title>
-      <link>https://moksh-shukla.github.io/publication/causal_airbnb/</link>
-      <pubDate>Tue, 04 Jan 2022 01:52:09 +0530</pubDate>
-      <guid>https://moksh-shukla.github.io/publication/causal_airbnb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Comparitive Study to Detect Tumor in Brain MRI Images using Clustering Algorithms</title>
-      <link>https://moksh-shukla.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 03 Mar 2020 22:33:24 +0530</pubDate>
-      <guid>https://moksh-shukla.github.io/publication/journal-article/</guid>
-      <description></description>
+      <title>Framework for Broad Class Incremental Learning System</title>
+      <link>https://moksh-shukla.github.io/project/bclis/</link>
+      <pubDate>Wed, 20 Jan 2021 02:26:24 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/bclis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: October 2020 - January 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Krishna K. Sharma, Dept. of Computer Science &amp;amp; Informatics, University of Kota&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a Novel Learning Framework Broad Class Incremental Learning System (BCILS) to tackle the
+forgetting problem of Class Incremental Learning.&lt;/li&gt;
+&lt;li&gt;BCILS updates the model when there is training data from unknown classes using the deduced iterative formula.&lt;/li&gt;
+&lt;li&gt;Proposed approach tested on sensor-induced physiological signals.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
