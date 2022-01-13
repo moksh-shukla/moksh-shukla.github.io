@@ -41,6 +41,46 @@ WikiHow resources.&lt;/li&gt;
     </item>
     
     <item>
+      <title>Optimizing Uber Freight Operations with Urban Consolidation Centres</title>
+      <link>https://moksh-shukla.github.io/project/uber_hackathon/</link>
+      <pubDate>Sun, 14 Mar 2021 14:15:01 +0530</pubDate>
+      <guid>https://moksh-shukla.github.io/project/uber_hackathon/</guid>
+      <description>&lt;p&gt;This project is a hackathon submission to Uber&amp;rsquo;s Hackathon &lt;strong&gt;Hacktag 2021&lt;/strong&gt;. The hackathon required providing an innovative solution around the theme &lt;em&gt;&amp;ldquo;Uber beyond Mobility and Delivery.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: February 2021 - March 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ideation Details&lt;/strong&gt;: 
+Urban Consolidation Centers(UCCs) are locations, typically on the outskirts of cities, where deliveries are brought, sorted, and then dispatched. Goods from multiple suppliers can be consolidated into fewer shipments, making it possible to optimize loads and truck sizes, thus cutting down on the number of trips and vehicles required. UCCs have been into research for long, but are gaining prominence now because of availability of suitable technological infrastructure, such as the one available with Uber Freight. Thus, slight modifications in the software infrastructure and some initial capital expenditure in the form of UCCs, can yield promising results.
+The characteristic additions to software stack would be: Implementing this new feature into the existing Uber Freight product involves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adding the shipper interface to the existing app, for shippers to book and track intra-city cargo transportation services.&lt;/li&gt;
+&lt;li&gt;Implementing routing algorithms on the backend, responsible for optimally allocating cargo packages to intracity routes.&lt;/li&gt;
+&lt;li&gt;Implementing cargo-tracking services allowing shippers and receivers to track their cargo packages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The characteristic profits are estimated as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dense cities that deploy UCCs could save 25 percent on delivery costs per parcel (compared to traditional methods), due to greater capacity utilization, lower labor costs, and fewer miles driven.&lt;/li&gt;
+&lt;li&gt;Estimates suggest that mileage could be reduced by as much as 45 percent to deliver the same volume of goods, thus reducing general wear and tear as well as all types of vehicle emissions (CO&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;, NO&lt;!-- raw HTML omitted --&gt;x&lt;!-- raw HTML omitted --&gt;, and particulate matter)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Proposed Tech Stack&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Booking database&lt;/strong&gt;&lt;/em&gt;: MongoDB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Object structure is not highly relational so MongoDB is a great choice, as it comes with great performance and rapid iteration speed during development, along with the benefit of easy horizontal scalability.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Booking service&lt;/strong&gt;&lt;/em&gt;: Node.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Node.JS is highly performant for asynchronous operations, and also allows for rapid development and iteration speed. Any computationally expensive tasks involved can be delegated to the routing server asynchronously.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Live location tracking and streaming&lt;/strong&gt;&lt;/em&gt;: Apache Kafka&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kafka is highly performant for low-latency data streaming, and is easily scalable to support a large number of tracked vehicles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Routing service&lt;/strong&gt;&lt;/em&gt;: C++/Java/Rust/Go&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Routing is a computationally expensive operation and should be delegated to a high-performance server to avoid slowing down or blocking the user-facing services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Framework for Broad Class Incremental Learning System</title>
       <link>https://moksh-shukla.github.io/project/bclis/</link>
       <pubDate>Wed, 20 Jan 2021 02:26:24 +0530</pubDate>
